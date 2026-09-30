@@ -1,3 +1,4 @@
+
 USE CollegeDB;
 
 DROP TABLE IF EXISTS StudentCourse;
